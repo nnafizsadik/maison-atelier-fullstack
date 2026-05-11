@@ -1,4 +1,4 @@
-# Maison Atelier — Full-Stack E-Commerce (Custom Auth)
+# Maison Atelier - Full-Stack E-Commerce (Custom Auth)
 
 A high-end, secure e-commerce platform built with a fully custom authentication system, PostgreSQL, and React. No third-party auth providers — everything is engineered from scratch.
 
