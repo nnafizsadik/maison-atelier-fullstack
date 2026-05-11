@@ -50,7 +50,6 @@ npm run dev
 | JWT Secret | 128-character cryptographically random hex |
 | SQL Injection | 100% parameterized queries — injection impossible |
 | HTTP Headers | Helmet package active against XSS, clickjacking, MIME sniffing |
-| Secrets | All credentials in `.env` — never committed to git |
 
 ---
 
